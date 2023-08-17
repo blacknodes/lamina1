@@ -1,4 +1,4 @@
-# lamina1
+# Lamina1
 Guide To Run a Lamina1 Node
 
 ## Install Node
